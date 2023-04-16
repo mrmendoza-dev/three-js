@@ -1,0 +1,17 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.world {
+  height: 600px;
+  width: 1600px;
+  overflow: hidden;
+  margin: 0 auto;
+  
+
+}
